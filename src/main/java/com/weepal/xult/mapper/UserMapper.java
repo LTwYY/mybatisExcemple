@@ -1,4 +1,4 @@
-package com.weepal.xult.dao;
+package com.weepal.xult.mapper;
 
 import java.util.List;
 
